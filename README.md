@@ -1,12 +1,9 @@
 
-  ![](https://avatars1.githubusercontent.com/u/66336162?s=460&u=ccfd81b295fdd0741f792fc0656e043c7aaf9f63&v=4)
-  # Hailey Parker
-  ### [E-mail Me Here!](Hailey.parker@yahoo.com)
+  ![](https://avatars1.githubusercontent.com/u/39196696?v=4)
+  # Justin Marchi
+  ### [E-mail Me Here!](Marchij86@gmail.com)
 ---
-
-
----
-  # Homework 12 - Employee Managment System
+  # Homework 12 - Employee Tracker
 
 
 ## Description 
