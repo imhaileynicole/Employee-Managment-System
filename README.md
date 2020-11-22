@@ -56,7 +56,7 @@ MIT License
   - Run 'node app.js' on the locally cloned folder.
 
 - **How can I contact you if I have any further questions?**
-  - Marchij86@gmail.com
+  - Hailey.parker@yahoo.com
 
 ---
 ## Contributing
